@@ -1,23 +1,23 @@
 {
-  "name": "bociancz/slider-module",
+  "name": "arturmamedov/wt_slider-module",
   "type": "asgard-module",
-  "description": "Slider module for AsgardCMS",
+  "description": "Slider module for AsgardCMS, forked from bociancz/slider-module, with Tenant id for separate sliders of each user and other little improvment, require changes Core of Asgard CMS!",
   "keywords": [
     "asgardcms",
-    "slider"
+    "slider",
+    "multitenant"
   ],
   "license": "MIT",
   "authors": [
     {
-      "name": "David Cap",
-      "email": "david@bocian.cz",
+      "name": "Artur Mamedov",
+      "email": "arturmamedov1993@gmail.com",
       "role": "Developer"
     }
   ],
   "support": {
-    "email": "info@bocian.cz",
-    "issues": "https://github.com/BocianCZ/slider-module/issues",
-    "source": "https://github.com/BocianCZ/slider-module"
+    "issues": "https://github.com/arturmamedov/wt_slider-module/issues",
+    "source": "https://github.com/arturmamedov/wt_slider-module"
   },
   "require": {
     "php": ">=5.5",
@@ -40,5 +40,5 @@
     }
   },
   "minimum-stability": "dev",
-  "prefer-stable": true
+  "prefer-stable": false
 }

@@ -16,8 +16,9 @@
     }
   ],
   "support": {
-    "issues": "https://github.com/arturmamedov/wt_slider-module/issues",
-    "source": "https://github.com/arturmamedov/wt_slider-module"
+    "email": "arturmamedov1993@gmail.com",
+    "issues": "https://github.com/arturmamedov/slider-module/issues",
+    "source": "https://github.com/arturmamedov/slider-module"
   },
   "require": {
     "php": ">=5.5",

@@ -41,5 +41,8 @@
     }
   },
   "minimum-stability": "dev",
-  "prefer-stable": false
+  "prefer-stable": false,
+  "config": {
+    "preferred-install": "dist"
+  }
 }

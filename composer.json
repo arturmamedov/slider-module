@@ -1,5 +1,5 @@
 {
-  "name": "arturmamedov/wt_slider-module",
+  "name": "arturmamedov/slider-module",
   "type": "asgard-module",
   "description": "Slider module for AsgardCMS, forked from bociancz/slider-module, with Tenant id for separate sliders of each user and other little improvment, require changes Core of Asgard CMS!",
   "keywords": [
